@@ -69,3 +69,10 @@ header nav{
     padding: .4rem 1rem;
     color: #fff;
 }
+
+#bottom-header-inner .btn:hover,
+.btn:hover{
+    color: #0071e3;
+    background-color: #f5f5f7;
+    border: 1px solid #0071e3;
+}
